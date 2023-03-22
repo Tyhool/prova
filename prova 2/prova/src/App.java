@@ -34,7 +34,6 @@ public class App {
 
         local2.possivelFesta(festa2);
         // -------------------------------------------------------------------
-        System.out.println();
 
     }
 }
